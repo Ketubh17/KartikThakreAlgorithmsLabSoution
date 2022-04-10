@@ -1,2 +1,2 @@
-module LabAssessment {
+module LabAssessmentSolution {
 }
